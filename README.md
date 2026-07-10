@@ -146,7 +146,7 @@ I learn by building software that runs publicly, fails visibly, and improves thr
         <li>Built through iteration, public release, and continuous refinement</li>
       </ul>
       <p align="left">
-        <a href="https://www.nsakash.in/craftiq.html">
+        <a href="https://craftiq.in">
           <img src="https://img.shields.io/badge/CraftIQ-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" alt="CraftIQ" />
         </a>
         <a href="https://www.nsakash.in/resume.html">
